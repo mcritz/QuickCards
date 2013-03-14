@@ -1,22 +1,24 @@
 
+#main {
+	padding: 4em 0;
+}
 
-/* ==========================================================================
-   Author's custom styles
-   ========================================================================== */
+.drop_group {
+	background: #fefefe;
+	min-height: 10em;
+	padding: 1em;
+	border: 1px solid silver;
+	overflow: hidden;
+	resize: both;
+}
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+.card {
+	position: absolute;
+	background: silver;
+	border: 1px solid #fefefe;
+	min-height: 4em;
+	width: 10em;
+	padding: 1em;
+	overflow: hidden;
+	resize: both;
+}
