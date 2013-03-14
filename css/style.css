@@ -1,18 +1,18 @@
 #main {
   padding: 4em 0; }
 
-.drop_group {
+.group {
   background: #fefefe;
   min-height: 10em;
   padding: 1em;
   border: 1px solid silver;
   overflow: hidden;
   resize: both; }
-  .drop_group h3 {
+  .group h3 {
     display: inline-block;
     margin: 0;
     padding: 0; }
-    .drop_group h3:focus {
+    .group h3:focus {
       outline: none;
       border-bottom: 1px solid silver; }
 
